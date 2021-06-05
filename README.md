@@ -1,8 +1,11 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+ngthorg!&color=67C69B&center=true">
+<div align="center" >
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+ngthorg!&color=67C69B&font=Droid+Sans+Mono">
+</div>
 
 ### Hi there 👋
 
-[<img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=5826897&theme=dark" />](https://stackoverflow.com/users/5826897/ng-thong)
+
+[<img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=5826897" />](https://stackoverflow.com/users/5826897/ng-thong)
 
 - 🔭 I’m currently working on [unioji](https://github.com/unioji)
 - 🌱 I’m currently learning ...
@@ -18,6 +21,7 @@
 "/>](https://www.paypal.com/paypalme/ngthorg)
 
 ## Languages and Tools
+
 
 [<img alt="MacOS" src="https://img.shields.io/badge/-Mac OS-000000?style=flat-square&logoColor=white" />](https://www.apple.com/macos)
 [<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />](https://www.linux.org)
@@ -46,6 +50,7 @@
 [<img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white"/>](https://www.vim.org)
 
 ##
+
 
 ![Ng Thong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngthorg&show_icons=true&theme=vue&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngthorg&layout=compact&theme=vue&hide_border=true)
