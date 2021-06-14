@@ -23,7 +23,7 @@
 ## Languages and Tools
 
 
-[<img alt="MacOS" src="https://img.shields.io/badge/-Mac OS-000000?style=flat-square&logoColor=white" />](https://www.apple.com/macos)
+[<img alt="MacOS" src="https://img.shields.io/badge/macOS-000000?style=flat-square&logoColor=white" />](https://www.apple.com/macos)
 [<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />](https://www.linux.org)
 [<img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white" />](https://getfedora.org)
 
@@ -35,7 +35,7 @@
 [<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />](https://nodejs.org)
 [<img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />](https://golang.org)
 [<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E00097?style=flat-square&logo=graphql&logoColor=white" />](https://graphql.org)
-[<img alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next.js&logoColor=white" />](https://nextjs.org)
+[<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />](https://nextjs.org)
 [<img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />](https://nestjs.com)
 [<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />](https://angular.io)
 [<img alt="mongoDB" src="https://img.shields.io/badge/-mongoDB-4fb23f?style=flat-square&logo=mongodb&logoColor=white" />](https://mongodb.com)
