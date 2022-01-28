@@ -47,7 +47,7 @@
 [<img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />](https://eslint.org)
 
 [<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" />](https://code.visualstudio.com/)
-[<img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white"/>](https://www.vim.org)
+[<img alt="Vim" src="https://img.shields.io/badge/Neovim-%2311AB00.svg?style=flat-square&logo=neovim&logoColor=white"/>](https://neovim.io)
 
 ##
 
